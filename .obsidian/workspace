@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "f1ae43d5edac4a05",
+    "type": "split",
+    "children": [
+      {
+        "id": "e47a06f3d15be6fc",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "第一卷/ab第二章 瓦尔特.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "705869b1043fcf0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "56bcd32848e019f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec5c9d1e05b1811f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c242dd354947060f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e54c7d0d4333a987",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e21822f8d05d47d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc7cfaa9282e49e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "第一卷/ab第二章 瓦尔特.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "第一卷/第二章 瓦尔特.md",
+    "第一卷/第一章 萨拉热窝1992.md",
+    "第一卷/Untitled.md",
+    "README.md"
+  ]
+}
