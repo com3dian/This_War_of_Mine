@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "f1ae43d5edac4a05",
+    "id": "80067972f502797a",
     "type": "split",
     "children": [
       {
-        "id": "e47a06f3d15be6fc",
+        "id": "094d0fcf15f68abb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "第一卷/ai第九章 伊厉奇们.md",
+            "file": "第一卷/aj第十章 被杀害的知识分子.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "705869b1043fcf0a",
+    "id": "69834b6b86da34fd",
     "type": "split",
     "children": [
       {
-        "id": "56bcd32848e019f1",
+        "id": "db3f8403dda64e2b",
         "type": "tabs",
         "children": [
           {
-            "id": "ec5c9d1e05b1811f",
+            "id": "18b9c822aeb24325",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "c242dd354947060f",
+            "id": "c65702b10b1f6119",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "记忆",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -55,20 +55,20 @@
     "width": 300
   },
   "right": {
-    "id": "e54c7d0d4333a987",
+    "id": "a54f201db13845a3",
     "type": "split",
     "children": [
       {
-        "id": "3e21822f8d05d47d",
+        "id": "91e3246ab9115b9f",
         "type": "tabs",
         "children": [
           {
-            "id": "fc7cfaa9282e49e6",
+            "id": "4747efc57398a1b5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一卷/ai第九章 伊厉奇们.md",
+                "file": "第一卷/aj第十章 被杀害的知识分子.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e47a06f3d15be6fc",
+  "active": "094d0fcf15f68abb",
   "lastOpenFiles": [
+    "第一卷/aj第十章 被杀害的知识分子.md",
     "第一卷/ai第九章 伊厉奇们.md",
-    "第一卷/那篇报道.md",
     "第一卷/ah第八章 晚上好，武器.md",
+    "第一卷/那篇报道.md",
+    "Cover.md",
     "第一卷/ag第七章 榴弹炮之夜.md",
     "第一卷/af第六章 人民军.md",
     "第一卷/ae第五章 中国计划与奥地利计划.md",
     "第一卷/ad第四章 家庭作业摄影.md",
-    "第一卷/ac第三章 足球运动员与他的家人.md",
-    "第一卷/aa第一章 萨拉热窝1992.md",
-    "Untitled.md"
+    "第一卷/ac第三章 足球运动员与他的家人.md"
   ]
 }
