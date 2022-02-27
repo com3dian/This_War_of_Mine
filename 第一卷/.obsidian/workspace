@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "34564e86e31093e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "459019a0e5202a77",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9af97ec28c6dfc8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "076f15afbc3b50b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bfc8d6c49724384",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "41934bda49f39f32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "我们是T",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b11507f405be47a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d729bc136c11896",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "953f1696a3b3c34c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "459019a0e5202a77",
+  "lastOpenFiles": [
+    "bd第三十章 无主之地.md",
+    "ag第七章 榴弹炮之夜.md"
+  ]
+}
